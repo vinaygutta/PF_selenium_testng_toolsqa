@@ -1,12 +1,12 @@
-18/05/2021 18:30:59 devpinoyLogger Launching Firefox
-18/05/2021 18:31:09 devpinoyLogger Clicking on an Element : home page widgets win link
-18/05/2021 18:31:10 devpinoyLogger Scrolling page
-18/05/2021 18:31:10 devpinoyLogger Clicking on an Element : left nav date picker link
-18/05/2021 18:31:11 devpinoyLogger Clicking on an Element : date entry box
-18/05/2021 18:31:13 devpinoyLogger Choosing in the Element : month the value as : April
-18/05/2021 18:31:15 devpinoyLogger Choosing in the Element : year the value as : 2019
-18/05/2021 18:31:15 devpinoyLogger Getting index of the Element in list : date picker with text as : 22
-18/05/2021 18:31:19 devpinoyLogger Clicking on an Element : date picker
-18/05/2021 18:31:33 devpinoyLogger Scrolling page
-18/05/2021 18:31:33 devpinoyLogger Clicking on an Element : left nav date picker link
-18/05/2021 18:31:34 devpinoyLogger Moving slider : slider to : 25%
+19/05/2021 11:08:13 devpinoyLogger Launching Chrome
+19/05/2021 11:08:24 devpinoyLogger Clicking on an Element : home page widgets win link
+19/05/2021 11:08:25 devpinoyLogger Scrolling page
+19/05/2021 11:08:26 devpinoyLogger Clicking on an Element : left nav date picker link
+19/05/2021 11:08:29 devpinoyLogger Clicking on an Element : date entry box
+19/05/2021 11:08:31 devpinoyLogger Choosing in the Element : month the value as : April
+19/05/2021 11:08:33 devpinoyLogger Choosing in the Element : year the value as : 2019
+19/05/2021 11:08:34 devpinoyLogger Getting index of the Element in list : date picker with text as : 22
+19/05/2021 11:08:40 devpinoyLogger Clicking on an Element : date picker
+19/05/2021 11:08:53 devpinoyLogger Scrolling page
+19/05/2021 11:08:54 devpinoyLogger Clicking on an Element : left nav date picker link
+19/05/2021 11:08:54 devpinoyLogger Moving slider : slider to : 25%
