@@ -1,0 +1,6 @@
+com\toolsqa\testcases\AllAlertFrmWinTests.class
+com\toolsqa\testcases\AllWidgetsTests.class
+com\toolsqa\testcases\UploadDownloadTests.class
+com\toolsqa\testcases\WebTablePageTests.class
+com\toolsqa\testcases\AllInteractionsTests.class
+com\toolsqa\testcases\AllElementsTests.class
